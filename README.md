@@ -193,11 +193,3 @@ curl -X DELETE http://localhost:8080/admin/users/2 \
 - админ-функции
 
 ---
-
-## 🖋 Автор
-
-**Березняк Владимир**\
-Проект реализован в рамках учебного задания МИФИ\
-GitHub: [github.com/amasovich](https://github.com/amasovich)\
-Telegram: [@amasovich](https://t.me/amasovich)
-
